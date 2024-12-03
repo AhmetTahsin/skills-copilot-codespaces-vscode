@@ -9,7 +9,7 @@ _Congratulations friend, you've completed this course!_
 
 <img src="https://octodex.github.com/images/welcometocat.png" alt=celebrate width=300 align=right>
 
-Here's a recap of all the tasks you completed:
+Here's a recap of all the tasks you completed: 
 
 - Set up Copilot inside a Codespace.
 - Use Copilot to accept suggested code.
